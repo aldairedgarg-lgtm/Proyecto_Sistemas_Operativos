@@ -3,7 +3,7 @@
 Python 3.9+ y biblioteca estándar. La opción de syscalls requiere Linux.
 El árbol utiliza paquetes de espacio de nombres, sin archivos __init__.py.
 """
-
+"algo nuevo xd"
 import sys
 
 # Evita generar carpetas __pycache__ en el árbol solicitado.
